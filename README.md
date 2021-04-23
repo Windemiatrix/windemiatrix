@@ -3,6 +3,7 @@
 
 ## I'm a Husband, Father and Network Engeneer:
 - I use Cisco and Mikrotik for enterprise network infrastructure
+- Writing on C# just for fun
 - I'm currently learning k8s, ansible, terraform and other technologies for DevOps practices
 
 ### Connect with me:
@@ -17,6 +18,7 @@
 
 <img align="left" alt="Cisco" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
 <img align="left" alt="Mikrotik" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/MikroTik_logo.svg" />
+<img align="left" alt="CSharp" height="26px" src="https://api.iconify.design/mdi:language-csharp.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
 <img align="left" alt="MySQL" height="26px" src="https://api.iconify.design/whh:mysqltwo.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
 <img align="left" alt="Git" height="26px" src="https://api.iconify.design/fa-brands:git-square.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
 <img align="left" alt="GitHub" height="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
