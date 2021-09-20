@@ -14,6 +14,10 @@
 <br />
 <br />
 
+### Certificates
+
+- [Разработчик веб-сервисов на Go - основы языка](https://www.coursera.org/account/accomplishments/certificate/X6Y68MN64NX4)
+
 ### Languages and Tools:
 
 <img align="left" alt="Cisco" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
