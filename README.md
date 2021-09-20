@@ -16,7 +16,7 @@
 
 ### Certificates
 
-- [Разработчик веб-сервисов на Go - основы языка](https://www.coursera.org/account/accomplishments/certificate/X6Y68MN64NX4)
+- [Разработчик веб-сервисов на Go - основы языка](coursera.org/verify/X6Y68MN64NX4)
 
 ### Languages and Tools:
 
