@@ -1,7 +1,7 @@
 # Hi there, I'm Roman Martsev
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=windemiatrix)
 
-## I'm a Site Reliabiliti Engineer sinse summer 2021.
+## I'm a Site Reliability Engineer sinse summer 2021.
 
 - I'm working with Azure and Yandex cloud providers.
 - Writing on Go services to automate toil and processes in our team.
