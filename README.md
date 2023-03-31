@@ -21,20 +21,13 @@ Connect with me by [telegram][telegram], please, if you need.
 <img align="left" alt="Kubernetes" height="26px" src="https://cdn.simpleicons.org/kubernetes/666666" />
 <img align="left" alt="Terraform" height="26px" src="https://cdn.simpleicons.org/terraform/666666" />
 <img align="left" alt="GitHub" height="26px" src="https://cdn.simpleicons.org/github/666666" />
+<img align="left" alt="GitHub Actions" height="26px" src="https://cdn.simpleicons.org/githubactions/666666" />
 <img align="left" alt="Prometheus" height="26px" src="https://cdn.simpleicons.org/prometheus/666666" />
 <img align="left" alt="Kibana" height="26px" src="https://cdn.simpleicons.org/kibana/666666" />
 <img align="left" alt="Grafana" height="26px" src="https://cdn.simpleicons.org/grafana/666666" />
 <img align="left" alt="Visual Studio Code" height="26px" src="https://cdn.simpleicons.org/visualstudiocode/666666" />
-<img align="left" alt="Goland" height="26px" src="https://cdn.simpleicons.org/goland/666666" />
+<img align="left" alt="Akamai" height="26px" src="https://cdn.simpleicons.org/akamai/666666" />
+<img align="left" alt="Cloudflare" height="26px" src="https://cdn.simpleicons.org/cloudflare/666666" />
 
-<br />
-<br />
-
----
-
-<br />
-
-![windemiatrix's Github Stats](https://github-readme-stats.vercel.app/api?username=windemiatrix&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windemiatrix&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 [telegram]: https://t.me/windemiatrix
