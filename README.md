@@ -10,9 +10,6 @@ There is a lot to be said about engineering practices here, but these two things
 
 Connect with me by [telegram][telegram], please, if you need.
 
-<br />
-<br />
-
 ### Certificates
 
 - [Разработчик веб-сервисов на Go - основы языка](coursera.org/verify/X6Y68MN64NX4)
