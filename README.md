@@ -19,10 +19,6 @@ Connect with me by [telegram][telegram], please, if you need.
 
 ### Languages and Tools:
 
-<img align="left" alt="Yandex 1" height="26px" src="data:image/svg+xml;charset=utf8,<svg width='44' height='44' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M22 43a21 21 0 1 0 0-42 21 21 0 0 0 0 42Z' fill='#666666'/><path d='M25.3 35.13h4.57V8.86h-6.66c-6.7 0-10.22 3.44-10.22 8.5 0 4.02 1.93 6.43 5.37 8.88l-5.99 8.88h4.97L24 25.18l-2.32-1.54c-2.8-1.9-4.17-3.36-4.17-6.54 0-2.79 1.97-4.68 5.72-4.68h2.05v22.7h.01Z' fill='#fff'/></svg>">
-
-<img align="left" alt="Yandex 2" height="26px" src="data:image/svg+xml;charset=utf8,%3Csvg width='44' height='44' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M22 43a21 21 0 1 0 0-42 21 21 0 0 0 0 42Z' fill='%23666666'/%3E%3Cpath d='M25.3 35.13h4.57V8.86h-6.66c-6.7 0-10.22 3.44-10.22 8.5 0 4.02 1.93 6.43 5.37 8.88l-5.99 8.88h4.97L24 25.18l-2.32-1.54c-2.8-1.9-4.17-3.36-4.17-6.54 0-2.79 1.97-4.68 5.72-4.68h2.05v22.7h.01Z' fill='%23fff'/%3E%3C/svg%3E">
-
 <img align="left" alt="Microsoft Azure" height="26px" src="https://cdn.simpleicons.org/microsoftazure/666666" />
 <img align="left" alt="Golang" height="26px" src="https://cdn.simpleicons.org/go/666666" />
 <img align="left" alt="Kubernetes" height="26px" src="https://cdn.simpleicons.org/kubernetes/666666" />
