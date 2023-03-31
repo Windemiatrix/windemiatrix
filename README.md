@@ -1,15 +1,14 @@
-# Hi there, I'm Roman Martsev - aka [Windemiatrix][telegram] 👋
+# Hi there, I'm Roman Martsev
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=windemiatrix)
 
-## I'm a Husband, Father and Network Engeneer:
-- I use Cisco and Mikrotik for enterprise network infrastructure
-- Writing on C# just for fun
-- I'm currently learning k8s, ansible, terraform and other technologies for DevOps practices
+## I'm a Site Reliabiliti Engineer sinse summer 2021.
 
-### Connect with me:
+- I'm working with Azure and Yandex cloud providers.
+- Writing on Go services to automate toil and processes in our team.
 
-[<img align="left" height="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />][telegram]
-[<img align="left" height="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />][email]
+There is a lot to be said about engineering practices here, but these two things, I believe, are the main ones.
+
+Connect with me by [telegram][telegram], please, if you need.
 
 <br />
 <br />
@@ -20,22 +19,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Cisco" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
-<img align="left" alt="Mikrotik" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/MikroTik_logo.svg" />
-<img align="left" alt="Terraform" height="26px" src="https://api.iconify.design/simple-icons:terraform.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="CSharp" height="26px" src="https://api.iconify.design/mdi:language-csharp.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="MySQL" height="26px" src="https://api.iconify.design/whh:mysqltwo.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Git" height="26px" src="https://api.iconify.design/fa-brands:git-square.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="GitHub" height="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Ubuntu" height="26px" src="https://api.iconify.design/simple-icons:ubuntu.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Debian" height="26px" src="https://api.iconify.design/simple-icons:debian.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="CenOS" height="26px" src="https://api.iconify.design/fa-brands:centos.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Kubernetes" height="26px" src="https://api.iconify.design/simple-icons:kubernetes.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Prometheus" height="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Ansible" height="26px" src="https://api.iconify.design/simple-icons:ansible.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="YAML" height="26px" src="https://api.iconify.design/file-icons:yaml-alt4.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="Nginx" height="26px" src="https://api.iconify.design/cib:nginx.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
-<img align="left" alt="GitLab" height="26px" src="https://api.iconify.design/cib:gitlab.svg?download=true&box=true&color=%23626262&inline=false&width=auto" />
+<img align="left" alt="Microsoft Azure" height="26px" src="https://cdn.simpleicons.org/microsoftazure/666666" />
+<img align="left" alt="Golang" height="26px" src="https://cdn.simpleicons.org/go/666666" />
+<img align="left" alt="Kubernetes" height="26px" src="https://cdn.simpleicons.org/kubernetes/666666" />
+<img align="left" alt="Terraform" height="26px" src="https://cdn.simpleicons.org/terraform/666666" />
+<img align="left" alt="GitHub" height="26px" src="https://cdn.simpleicons.org/github/666666" />
+<img align="left" alt="Prometheus" height="26px" src="https://cdn.simpleicons.org/prometheus/666666" />
+<img align="left" alt="Kibana" height="26px" src="https://cdn.simpleicons.org/kibana/666666" />
+<img align="left" alt="Grafana" height="26px" src="https://cdn.simpleicons.org/grafana/666666" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://cdn.simpleicons.org/visualstudiocode/666666" />
+<img align="left" alt="Goland" height="26px" src="https://cdn.simpleicons.org/goland/666666" />
 
 <br />
 <br />
@@ -44,8 +37,7 @@
 
 <br />
 
-![jtprogru's Github Stats](https://github-readme-stats.vercel.app/api?username=windemiatrix&show_icons=true&theme=radical)
+![windemiatrix's Github Stats](https://github-readme-stats.vercel.app/api?username=windemiatrix&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windemiatrix&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
-[email]: mailto:matrixur@gmail.com
 [telegram]: https://t.me/windemiatrix
