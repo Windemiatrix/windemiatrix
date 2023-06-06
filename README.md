@@ -2,7 +2,7 @@
 
 Site Reliability Engineer / DevOps Engineer
 
-## SUMMARY
+### Summary
 
 Professional with experience in SRE and DevOps practices. I have working experience with Azure and Yandex Cloud cloud platforms, writing infrastructure automations with Golang programming language, orkestrating services with Kubernetes, communicating on incidents, writing postmortems, working with SL, observability and so on.
 
