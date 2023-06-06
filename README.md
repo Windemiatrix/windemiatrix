@@ -1,13 +1,16 @@
-# Hi there, I'm Roman Martsev
+# Roman Martsev
 
-## I'm a Site Reliability Engineer sinse summer 2021.
+Site Reliability Engineer / DevOps Engineer
 
-- I'm working with Azure and Yandex cloud providers.
-- Writing on Go services to automate toil and processes in our team.
+## SUMMARY
 
-There is a lot to be said about engineering practices here, but these two things, I believe, are the main ones.
+Professional with experience in SRE and DevOps practices. I have working experience with Azure and Yandex Cloud cloud platforms, writing infrastructure automations with Golang programming language, orkestrating services with Kubernetes, communicating on incidents, writing postmortems, working with SL, observability and so on.
 
-Connect with me by [telegram][telegram], please, if you need.
+Seeking for the next career step in SRE and DevOps practices and company interested in implementing projects that will help optimize business processes and increase profits. I would also like to learn and help others develop professionally.
+
+Detailed and actual cv is placed [here][cv].
+
+Text me in [telegram][telegram], please, if you need.
 
 ### Certificates
 
@@ -30,3 +33,4 @@ Connect with me by [telegram][telegram], please, if you need.
 
 
 [telegram]: https://t.me/windemiatrix
+[cv]: https://cv.roman.martsev.ru/
