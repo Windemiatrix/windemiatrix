@@ -12,7 +12,7 @@ Connect with me by [telegram][telegram], please, if you need.
 
 ### Certificates
 
-- [Разработчик веб-сервисов на Go - основы языка](coursera.org/verify/X6Y68MN64NX4)
+- [Разработчик веб-сервисов на Go - основы языка](https://coursera.org/share/f55ce018de700573fd08784c752989da)
 
 ### Languages and Tools:
 
