@@ -1,5 +1,4 @@
 # Hi there, I'm Roman Martsev
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=windemiatrix)
 
 ## I'm a Site Reliability Engineer sinse summer 2021.
 
